@@ -1,4 +1,4 @@
-# New Version Released! [here]([https://instagram.com/karthickxviii](https://github.com/KARTHICK-3056/PlantCare-AI))
+# New Version Released! [here]([https://github.com/DIVYESH-HARI](https://github.com/KARTHICK-3056/PlantCare-AI))
 # 🌿 PlantCare AI - Disease Detection System
 
 ## Overview
